@@ -22,21 +22,22 @@ This template serves as a guide for:
 
 | Area | KPI | 🔴  | 🟡 | 🟢 | 🔵 |
 |------|-----|--------------|----------------------------|---------------------|----------------------|
-| **S – Safety** | Production Incidents | ≥3 / Quarter | 1–2 / Quarter | 0 / Quarter | 0, plus proactive prevention |
-| **Q – Quality** | PR Approval Rate | <80% | 80–89% | 90–95% | >95% + peer recognition |
-| | Test Coverage | <50% | 50–69% | 70–85% | >85% fully tested |
-| **D – Delivery** | Sprint Commitments | <70% | 70–84% | 85–95% | >95% consistently |
-| | Estimation Accuracy | >30% variance | 15–30% variance | 5–15% variance | <5% variance |
-| **C – Cost** | Cloud/Infra Cost vs Budget | >20% over | 10–20% over | Within 10% | <5% with savings proposed |
-| | Technical Debt Reduction | None | Minor | 1 major / quarter | Ongoing improvements |
-| **+ – People / Improvement** | Mentoring & Code Reviews | None | 1–2 / month | 4+ / month | Mentorship & leadership |
-| | Learning Progress | No progress | 1 course / year | 2 courses / year or certification | OSS contribution / Thought leader |
+| **S – Safety** | Production Bugs / Incidents affecting users or data | ≥3 incidents / quarter | 1–2 incidents / quarter | 0 incidents / quarter | 0 incidents, with proactive monitoring and risk prevention |
+| **Q – Quality** | Pull Requests passing QA and Code Review (PHPStan Level 8, Tests) | <80% pass rate | 80–89% pass rate | 90–95% pass rate | >95% pass rate with peer recognition |
+| | Automated Test Coverage (Unit/Feature) | <50% coverage | 50–69% coverage | 70–85% coverage | >85% coverage with critical paths fully tested |
+| **D – Delivery** | Sprint Commitments Completed | <70% completion | 70–84% completion | 85–95% completion | >95% completion consistently |
+| | Estimation Accuracy (Variance) | >30% variance | 15–30% variance | 5–15% variance | <5% variance |
+| **C – Cost** | Cloud / Infra Costs deviation vs budget | >20% over budget | 10–20% over budget | Within 10% of budget | <5% of budget with cost-saving improvements proposed |
+| | Refactoring / Technical Debt Addressed | None in 6 months | 1–2 small tasks completed | 1 significant debt item per quarter | Continuous improvement mindset, technical debt backlog reduced |
+| **+ – People / Improvement** | Mentoring / Code Reviews | No mentoring or PR reviews | Occasional mentoring or reviews (1–2/month) | Consistent mentoring and ≥4 PR reviews/month | Proactively coaching others, leading knowledge sessions |
+| | Learning & Certification Progress | No new skills learned | Completed 1 course/year | Completed 2 courses/year or 1 certification | Public speaking, OSS contribution, certifications, thought leadership |
 
 ## Usage Recommendations
 
 - Use this template in **GitHub Projects**, **Notion**, or **Excel** for tracking.
 - Review **monthly or quarterly** to monitor trends and define action plans.
 - Use color-coded indicators for quick visual assessment.
+- Include action plans for Red/Yellow zones to drive improvements.
 
 ## 🚀 Example Use Case
 
@@ -46,8 +47,3 @@ This template serves as a guide for:
 | Sprint Delivery | 65% | 🔴 Red | Review estimation and capacity |
 | Code Reviews | 6 / month | 🔵 Blue | Maintain and mentor junior devs |
 | Cloud Costs | 8% over budget | 🟢 Green | Plan optimizations next quarter |
-
-## ✍️ Author
-
-Crafted by [Jorge Cortes](https://github.com/yourusername)  
-Senior PHP Developer | Laravel | InertiaJS | VueJS Specialist
