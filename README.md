@@ -42,7 +42,7 @@ This template serves as a guide for:
 ## Example Use Case
 
 | KPI | Score | Zone | Action |
-|-----|------|:----:|-------|
+|-----|-----:|:----:|-------|
 | Test Coverage | 72% | 🟢 | Monitor and increase on critical modules |
 | Sprint Delivery | 65% | 🔴 | Review estimation and capacity |
 | Code Reviews | 6 / month | 🔵 | Maintain and mentor junior devs |
