@@ -4,10 +4,10 @@ This repository provides a structured **KPI Dashboard Template** based on the **
 
 | Zone | Description |
 |------|-------------|
-| 🔴 Red | Problems needing immediate action |
-| 🟡 Yellow | Needs improvement |
-| 🟢 Green | Competitive performance |
-| 🔵 Blue | Best-in-class performance
+| 🔴 | Problems needing immediate action |
+| 🟡 | Needs improvement |
+| 🟢 | Competitive performance |
+| 🔵 | Best-in-class performance
 
 ## Purpose
 
@@ -39,7 +39,7 @@ This template serves as a guide for:
 - Use color-coded indicators for quick visual assessment.
 - Include action plans for Red/Yellow zones to drive improvements.
 
-## 🚀 Example Use Case
+## Example Use Case
 
 | KPI | Score | Zone | Action |
 |-----|------|------|-------|
