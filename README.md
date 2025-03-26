@@ -3,7 +3,7 @@
 This repository provides a structured **KPI Dashboard Template** based on the **SQDC+ Framework (Safety, Quality, Delivery, Cost, Continuous Improvement)**. It is designed to help **Software Engineers**, **Senior PHP Developers**, and **Engineering Teams** define, measure, and track performance with clear success zones:
 
 | Zone | Description |
-|------|-------------|
+|:----:|-------------|
 | 🔴 | Problems needing immediate action |
 | 🟡 | Needs improvement |
 | 🟢 | Competitive performance |
@@ -42,8 +42,8 @@ This template serves as a guide for:
 ## Example Use Case
 
 | KPI | Score | Zone | Action |
-|-----|------|------|-------|
-| Test Coverage | 72% | 🟢 Green | Monitor and increase on critical modules |
-| Sprint Delivery | 65% | 🔴 Red | Review estimation and capacity |
-| Code Reviews | 6 / month | 🔵 Blue | Maintain and mentor junior devs |
-| Cloud Costs | 8% over budget | 🟢 Green | Plan optimizations next quarter |
+|-----|------|:----:|-------|
+| Test Coverage | 72% | 🟢 | Monitor and increase on critical modules |
+| Sprint Delivery | 65% | 🔴 | Review estimation and capacity |
+| Code Reviews | 6 / month | 🔵 | Maintain and mentor junior devs |
+| Cloud Costs | 8% over budget | 🟢 | Plan optimizations next quarter |
